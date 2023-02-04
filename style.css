@@ -2,19 +2,19 @@
     
     body{        
       
-        background-color: rgb(247, 212, 212);       // här tänkte jag på kontrasten som gällar tillgänlighet 
+        background-color: rgb(247, 212, 212);     
       
     }  
     table, th, td{
        border-collapse: collapse;
-       border: 5px solid rgb(77, 79, 81);            // kontrasten gäller tillginglighet
+       border: 5px solid rgb(77, 79, 81);         
        padding: 15px;
     }
     th{
        background-color: rgb(172, 124, 165);
     }
    ul {
-    list-style-type: none;                          // navigation och struktur gäller tillginglighet
+    list-style-type: none;                      
     margin: 20;
     padding: 20;
     overflow: hidden;
@@ -60,7 +60,7 @@
   @media only screen and (max-width: 700px) {
     .responsive {
       width: 49.99999%;
-      margin: 6px 0;                                              // responsive images och bra struktur för bilder och texter gäller tillginglighet
+      margin: 6px 0;                                              
     }
   }
   
@@ -91,7 +91,7 @@
   .portfolio-img{width: 300px; height: 150px;}
  }
   
-                                                             // responsive images
+                                                             
 
 .ommig-img{width: 800px;height: 500px;
 
@@ -115,7 +115,6 @@ line-height:1.6;
 }
 
 .button{
-  background: rgb(85, 83, 83);               // navigation och struktur tillgenlighet
 padding:1em 2em;
 color: #fff;
 border: 0;
